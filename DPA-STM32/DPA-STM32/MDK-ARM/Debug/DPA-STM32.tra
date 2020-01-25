@@ -1,0 +1,32 @@
+*** Creating Trace Output File '.\Debug\DPA-STM32.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\debug\misc.o"'
+### List of Objects: adding '".\debug\stm32f10x_exti.o"'
+### List of Objects: adding '".\debug\stm32f10x_gpio.o"'
+### List of Objects: adding '".\debug\stm32f10x_rcc.o"'
+### List of Objects: adding '".\debug\stm32f10x_usart.o"'
+### List of Objects: adding '".\debug\stm32f10x_flash.o"'
+### List of Objects: adding '".\debug\stm32f10x_pwr.o"'
+### List of Objects: adding '".\debug\system_stm32f10x.o"'
+### List of Objects: adding '".\debug\core_cm3.o"'
+### List of Objects: adding '".\debug\startup_stm32f10x_md_vl.o"'
+### List of Objects: adding '".\debug\main.o"'
+### List of Objects: adding '".\debug\stm32f10x_it.o"'
+### List of Objects: adding '".\debug\stm32vldiscovery.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\debug\misc.o" ".\debug\stm32f10x_exti.o" ".\debug\stm32f10x_gpio.o" ".\debug\stm32f10x_rcc.o" ".\debug\stm32f10x_usart.o" ".\debug\stm32f10x_flash.o" ".\debug\stm32f10x_pwr.o" ".\debug\system_stm32f10x.o" ".\debug\core_cm3.o" ".\debug\startup_stm32f10x_md_vl.o" ".\debug\main.o" ".\debug\stm32f10x_it.o" ".\debug\stm32vldiscovery.o" 
+--library_type=microlib --strict --scatter ".\Debug\DPA-STM32.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Debug\DPA-STM32.map" -o .\Debug\DPA-STM32.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Debug\DPA-STM32.axf'
+### ADS-LD Command File: '.\Debug\DPA-STM32.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Debug\DPA-STM32.lnp', Handle=0x000007F8
+### Writing '.lnp' file
+### ADS-LD Command file '.\Debug\DPA-STM32.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

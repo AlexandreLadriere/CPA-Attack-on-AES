@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1412262774 source:c:\users\david.cambon\desktop\comm\main.c
+	<windows.h>
+	<stdio.h>
+
+1413534931 source:c:\users\david.cambon\desktop\comm - stm32\main.c
+	<windows.h>
+	<stdio.h>
+
+1453471854 source:d:\démo\milan\comm - stm32\main.c
+	<windows.h>
+	<stdio.h>
+
+1576576209 source:c:\users\da242926.old\documents\05.enseignement\2019\milan\comm - stm32\main.c
+	<windows.h>
+	<stdio.h>
+
+1578479214 source:c:\users\fpga\desktop\tp emse\programme comm stm32\comm - stm32\main.c
+	<windows.h>
+	<stdio.h>
+
+1578655057 source:c:\users\fpga\desktop\tp emse\com - stm32 - pico\main.c
+	<windows.h>
+	<stdio.h>
+

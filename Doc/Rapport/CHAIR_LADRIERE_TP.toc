@@ -1,0 +1,27 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Premi\IeC {\`e}re partie: Validation du set-up}{4}
+\contentsline {subsection}{\numberline {2.1}Principe de l'attaque par analyse des champs EM}{4}
+\contentsline {subsection}{\numberline {2.2}D\IeC {\'e}termination de la cible de l'attaque dans l'algorithme}{4}
+\contentsline {subsection}{\numberline {2.3}Acquisition du champs EM}{5}
+\contentsline {section}{\numberline {3}Deuxi\IeC {\`e}me partie: Acquisition et analyse statistique}{8}
+\contentsline {subsection}{\numberline {3.1}Acquisition du champ EM}{8}
+\contentsline {subsection}{\numberline {3.2}Analyse statistique}{8}
+\contentsline {subsubsection}{\numberline {3.2.1}Etape 1: construction de la matrice des traces}{8}
+\contentsline {subsubsection}{\numberline {3.2.2}Etape 2: construction de la matrice des plain text}{9}
+\contentsline {subsubsection}{\numberline {3.2.3}Etape 3: Hypoth\IeC {\`e}ses de consommation}{10}
+\contentsline {subsubsection}{\numberline {3.2.4}Etape 4: D\IeC {\'e}termination de la cl\IeC {\'e}}{10}
+\contentsline {section}{\numberline {4}Troisi\IeC {\`e}me partie: Analyse des r\IeC {\'e}sultats}{13}
+\contentsline {subsection}{\numberline {4.1}Position de la fuite par octets}{13}
+\contentsline {subsection}{\numberline {4.2}Attaque avec seulement 20 traces}{16}
+\contentsline {subsection}{\numberline {4.3}D\IeC {\'e}termination du nombre de traces minimum requises}{17}
+\contentsline {section}{\numberline {5}Quatri\IeC {\`e}me partie: Contre-mesures}{18}
+\contentsline {section}{\numberline {6}Conclusion}{21}
+\contentsline {section}{\numberline {7}Annexe}{23}
+\contentsline {subsection}{\numberline {7.1}Test de l'AES 128-bits}{23}
+\contentsline {subsubsection}{\numberline {7.1.1}Init Key utilis\IeC {\'e} pour le test}{23}
+\contentsline {subsubsection}{\numberline {7.1.2}R\IeC {\'e}sultats du test}{23}
+\contentsline {subsection}{\numberline {7.2}D\IeC {\'e}termination de la cl\IeC {\'e}}{29}
+\contentsline {subsubsection}{\numberline {7.2.1}cl\IeC {\'e} utilis\IeC {\'e} par l'AES lors de nos relev\IeC {\'e}s de champ EM}{29}
+\contentsline {subsubsection}{\numberline {7.2.2}Script Matlab}{30}
+\contentsline {subsubsection}{\numberline {7.2.3}R\IeC {\'e}sultats du script}{33}

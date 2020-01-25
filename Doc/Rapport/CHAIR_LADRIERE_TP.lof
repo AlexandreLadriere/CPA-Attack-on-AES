@@ -1,0 +1,8 @@
+\babel@toc {english}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Fonctionnement du chiffrement pour AES-128}}{5}
+\contentsline {figure}{\numberline {2}{\ignorespaces Capture du champs EM \IeC {\'e}mis lors du \emph {SubBytes} de la ronde 1}}{7}
+\contentsline {figure}{\numberline {3}{\ignorespaces Trace du champ EM \IeC {\'e}mis lors du \emph {SubBytes} de la ronde 1}}{8}
+\contentsline {figure}{\numberline {4}{\ignorespaces Superposition de la position des fuites et d'un champ EM}}{13}
+\contentsline {figure}{\numberline {5}{\ignorespaces Superposition de la position des fuites et d'un champ EM sur l'\IeC {\'e}tape \emph {SubBytes}}}{14}
+\contentsline {figure}{\numberline {6}{\ignorespaces Superposition de la position des fuites et d'un champ EM sur une partie de l'\IeC {\'e}tape \emph {SubBytes}}}{16}
+\contentsline {figure}{\numberline {7}{\ignorespaces Evolution de la moyenne des coefficients de corr\IeC {\'e}lation sur les 16 octets de la cl\IeC {\'e} en fonction du nombre de traces utilis\IeC {\'e}es}}{18}
