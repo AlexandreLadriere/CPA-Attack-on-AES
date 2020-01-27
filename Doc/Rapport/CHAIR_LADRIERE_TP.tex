@@ -79,7 +79,7 @@ Dans la première partie, nous devions analyser et comprendre le principe de l'a
 	
 	Des ondes électromagnétiques sont émises lors de la circulation d'un courant dans les transistors présents dans la cible. De plus, le champ EM est directement dépendant de l'intensité circulant dans ces transistors, par la relation suivante:
 	\begin{align*}
-		Champs EM \;\; = \;\; \frac{di}{dt} \;\; , \;\; \textrm{avec i l'intensité}
+		Champs EM \;\; = \;\; \alpha \times \frac{di}{dt} \;\; , \;\; \textrm{avec i l'intensité}
 	\end{align*}
 Or, la consommation électrique varie en fonction des opérations effectuées. Ainsi, on aura une variation du champ EM en fonction des opérations effectuées, et donc obtenir des informations pour remonter à la clé initiale. 
 
@@ -235,7 +235,6 @@ end
 Ensuite, on va chercher dans la S-Box la valeur correspondant à ce $R$. Ensuite, le poids de Hamming $H$ est calculé pour la valeur récupérée dans la S-Box. Puis, ce poids est mis dans une nouvelle matrice, $matrix\_hamming$ de taille $256$ x $300$. Chaque ligne de cette matrice correspond aux poids de hamming pour chaque octet en position $X$ des plain texts pour une valeur de clé $K$ donnée. 
 
 A la fin de ces boucles (position $X$ fixée), nous avons une matrice d'hypothèse que nous pouvons utiliser dans l'étape suivante. 
-\textbf{FAIRE SCHEMA}
 Voici le code utilisé pour réaliser cette étape:
 \begin{lstlisting}
 ****************************************************************
@@ -332,9 +331,6 @@ void AES_InitKey()
 	key[15]=0x3c;
 }
 \end{lstlisting}
-
-
-\textbf{FAIRE SCHEMA GLOBAL CF. TABLEAU}
 
 
 \newpage
